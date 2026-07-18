@@ -20,3 +20,12 @@ These diagrams are updated as the environment evolves and are intended to provid
 ## Software
 
 Diagrams are created using draw.io (diagrams.net) and may also be exported as PNG files for documentation.
+diagrams/
+├── README.md
+├── homelab-overview.drawio
+├── network-topology.drawio
+├── docker-architecture.drawio
+├── media-server-flow.drawio
+├── storage-layout.drawio
+├── remote-access.drawio
+└── backup-strategy.drawio
